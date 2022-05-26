@@ -1,0 +1,21 @@
+{
+    "name": "90s-bell",
+    "displayName": "90s-Bell",
+    "description": "VS Code in a 90s-era taco bell",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "90s-bell",
+                "uiTheme": "vs-dark",
+                "path": "./themes/90s-bell-color-theme.json"
+            }
+        ]
+    }
+}
