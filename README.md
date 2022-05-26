@@ -6,6 +6,12 @@ This is a collection of themes based on retro taco bell colors from the 90s/earl
 Background images sourced from Taco Bell's [virtual call backgrounds]
 (https://www.tacobell.com/blog/taco-bell-conference-call-backdrops-that-will-spice-up-your-meeting)
 
+
+# Windows Terminal Theme:
+!["Taco bell background"](https://raw.githubusercontent.com/BehymerTech/retroBell/main/win-terminal-screenshot.jpg)
+
+# VS Code Theme:
+!["Taco bell background"](https://raw.githubusercontent.com/BehymerTech/retroBell/main/vscode-screenshot.jpg)
 --- 
 
 # Legal stuff
