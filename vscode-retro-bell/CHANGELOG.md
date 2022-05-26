@@ -1,9 +1,3 @@
 # Change Log
 
-All notable changes to the "90s-bell" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- 2022-05-26: Initial release
