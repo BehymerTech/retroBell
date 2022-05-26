@@ -1,0 +1,25 @@
+"schemes": 
+[
+    {
+        "background": "#332A57",
+        "black": "#32A2A9",
+        "blue": "#206792",
+        "brightBlack": "#277E83",
+        "brightBlue": "#206792",
+        "brightCyan": "#277E83",
+        "brightGreen": "#67C493",
+        "brightPurple": "#6F678C",
+        "brightRed": "#9F6768",
+        "brightWhite": "#CCB499",
+        "brightYellow": "#CAA978",
+        "cursorColor": "#67C493",
+        "cyan": "#32A2A9",
+        "foreground": "#E5E5E5",
+        "green": "#67C493",
+        "name": "90s-taco-bell",
+        "purple": "#6F678C",
+        "red": "#9F6768",
+        "selectionBackground": "#FFFFFF",
+        "white": "#CCB499",
+        "yellow": "#CAA978"
+    },
